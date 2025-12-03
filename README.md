@@ -1,3 +1,3 @@
 # RDBS-and-SQL-Essentials
 
-![Diagram](./er-design.pdf)
+![Diagram](./er-design.png)
